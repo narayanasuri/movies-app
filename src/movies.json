@@ -8,7 +8,8 @@
             "release": "21 February 2019",
             "genreTags": "Comedy, Drama, Romance",
             "runningTime": "2h 15min",
-            "imdbRating": "8.6/10" 
+            "imdbRating": "8.6/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BYjYyZTNkZGYtZGJjZC00NmM2LThjNjMtMjYxYTI0NTg1NzViXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_QL50_SY1000_CR0,0,673,1000_AL_.jpg"
         },
         {
             "id": 2,
@@ -18,7 +19,8 @@
             "release": "28 March 2019",
             "genreTags": "Action, Crime, Drama",
             "runningTime": "2h 56min",
-            "imdbRating": "8.4/10" 
+            "imdbRating": "8.4/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BYjcwMTcxMjQtY2E3Ny00NDk2LWE4MTYtMDg0MDNlZTE2ZTYyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL50_SY1000_SX750_AL_.jpg"
         },
         {
             "id": 3,
@@ -28,7 +30,8 @@
             "release": "20 September 2013",
             "genreTags": "Drama, Romance",
             "runningTime": "1h 44min",
-            "imdbRating": "7.8/10" 
+            "imdbRating": "7.8/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BMTUwMzc1NjIzMV5BMl5BanBnXkFtZTgwODUyMTIxMTE@._V1_QL50_SY1000_CR0,0,679,1000_AL_.jpg"
         },
         {
             "id": 4,
@@ -38,7 +41,8 @@
             "release": "14 January 2003",
             "genreTags": "Adventure, Comedy, Drama",
             "runningTime": "2h 40min",
-            "imdbRating": "8.7/10" 
+            "imdbRating": "8.7/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BNzBiYmFjOTktYTdmMC00YjViLTlhZDktZWQ4NTUwYjczY2JiXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_QL50_SY1000_CR0,0,732,1000_AL_.jpg"
         },
         {
             "id": 5,
@@ -48,7 +52,8 @@
             "release": "28 September 2018",
             "genreTags": "Drama",
             "runningTime": "2h 34min",
-            "imdbRating": "8.8/10" 
+            "imdbRating": "8.8/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BYTI3ZmIyMjYtZTcwZC00N2Q1LTg1ZTEtNjZjYWQ5NTU1NTA1XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_QL50_.jpg"
         },
         {
             "id": 6,
@@ -58,7 +63,8 @@
             "release": "3 October 2018",
             "genreTags": "Drama, Romance",
             "runningTime": "2h 38min",
-            "imdbRating": "8.6/10" 
+            "imdbRating": "8.6/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BZTM1MGM3NjgtZjE4Mi00ZTNlLWI3ODAtNTViZjFmMDc3MjlhXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_QL50_.jpg"
         },
         {
             "id": 7,
@@ -68,7 +74,8 @@
             "release": "22 December 2017",
             "genreTags": "Drama, Romance",
             "runningTime": "2h 16min",
-            "imdbRating": "7.9/10" 
+            "imdbRating": "7.9/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BZTNiZGFiNWMtMjQ0MS00OWVhLWFkMTktM2UyOTFmNWE3NzgwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL50_.jpg"
         },
         {
             "id": 8,
@@ -78,7 +85,8 @@
             "release": "9 October 2018",
             "genreTags": "Action, Crime, Thriller",
             "runningTime": "2h 50min",
-            "imdbRating": "8.7/10" 
+            "imdbRating": "8.7/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BMjU2NzIzMjYtMGE2ZS00YzgzLWE5MzgtZTFiYTlmOWNlYmJkXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_QL50_.jpg"
         },
         {
             "id": 9,
@@ -88,7 +96,8 @@
             "release": "5 June 2015",
             "genreTags": "Comedy, Drama",
             "runningTime": "1h 31min",
-            "imdbRating": "8.4/10" 
+            "imdbRating": "8.4/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BM2YzNTM5NjgtZGNhMi00MjI5LWE3ZjgtOTYyODRkZWIyMGNhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_QL50_.jpg"
         },
         {
             "id": 10,
@@ -98,7 +107,8 @@
             "release": "25 December 2009",
             "genreTags": "Comedy, Drama",
             "runningTime": "2h 50min",
-            "imdbRating": "8.4/10" 
+            "imdbRating": "8.4/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL50_SY1000_CR0,0,694,1000_AL_.jpg"
         },
         {
             "id": 11,
@@ -108,7 +118,8 @@
             "release": "30 May 2014",
             "genreTags": "Comedy, Drama, Romance",
             "runningTime": "2h 51min",
-            "imdbRating": "8.3/10" 
+            "imdbRating": "8.3/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BZmY5NjNjYWMtNmJhNi00YTk0LTg0OWUtNDE4OGQ0YmM4NDAwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_SX750_AL_.jpg"
         },
         {
             "id": 12,
@@ -118,7 +129,8 @@
             "release": "10 August 2007",
             "genreTags": "Drama, Family, Sport",
             "runningTime": "2h 33min",
-            "imdbRating": "8.2/10" 
+            "imdbRating": "8.2/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BMTUzODMyNzk4NV5BMl5BanBnXkFtZTgwNTk1NTYyNTM@._V1_QL50_.jpg"
         },
         {
             "id": 13,
@@ -128,7 +140,8 @@
             "release": "14 February 2019",
             "genreTags": "Drama, Musical",
             "runningTime": "2h 33min",
-            "imdbRating": "8.2/10" 
+            "imdbRating": "8.2/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BZDkzMTQ1YTMtMWY4Ny00MzExLTkzYzEtNzZhOTczNzU2NTU1XkEyXkFqcGdeQXVyODY3NjMyMDU@._V1_QL50_.jpg"
         },
         {
             "id": 14,
@@ -138,7 +151,8 @@
             "release": "5 October 2018",
             "genreTags": "Crime, Thriller",
             "runningTime": "2h 19min",
-            "imdbRating": "8.3/10" 
+            "imdbRating": "8.3/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_QL50_SX692_CR0,0,692,999_AL_.jpg"
         },
         {
             "id": 15,
@@ -148,7 +162,8 @@
             "release": "25 November 1991",
             "genreTags": "Action, Crime, Drama",
             "runningTime": "2h 37min",
-            "imdbRating": "8.5/10" 
+            "imdbRating": "8.5/10",
+            "posterURL": "https://m.media-amazon.com/images/M/MV5BZGE5NzVjNTEtMGUwYi00YzU0LWIyYTctNDc0ZjMxNGNhYzg5XkEyXkFqcGdeQXVyMjMwODI3NDE@._V1_QL50_.jpg"
         }
     ]
 }

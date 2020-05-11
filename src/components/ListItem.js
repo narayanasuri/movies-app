@@ -2,8 +2,14 @@ import React from 'react';
 import '../styling/components/list-item.scss';
 
 export default (props) => {
+
+    function onChangeSearchQuery(movie) {
+        console.log(movie)
+        props.selectMovie(props.movie)
+    }
+
     return (
-        <li className="list-group-item"
-        onClick={(e) => { props.selectMovie(props.movie) }}>{props.movie.title}</li>
+        <button type="button" className="list-group-item list-group-item-action suggestions-list-item"
+        onClick={(e) => { onChangeSearchQuery(e) }}>{props.movie.title}</button>
     )
 }

@@ -21,7 +21,7 @@ class MovieApp extends React.Component {
   handleType(queryString) {
     if(queryString && queryString!=="") {
       this.setState(() => ({
-        suggestions: moviesJson.movies.filter((movie) => (movie.title.toLowerCase().startsWith(queryString)))
+        suggestions: moviesJson.movies.filter((movie) => (movie.title.toLowerCase().indexOf(queryString)) >= 0)
       }))
     } else {
       this.setState(() => ({
@@ -36,18 +36,24 @@ class MovieApp extends React.Component {
   }
 
   selectMovie(movie) {
+    document.getElementById("search-input").value = ""
     this.setState(() => ({
       selectedMovie: movie,
       suggestions: []
     }))
   }
 
+  clearForm(form) {
+    console.log(form)
+  }
+
   render() {
     return (
-      <div>
+      <div className="main-container">
         <InputNav 
           movies={this.state.movies} 
-          suggestions={this.state.suggestions} 
+          suggestions={this.state.suggestions}
+          searchQuery={this.state.searchQuery}
           handleType={this.handleType}
           selectMovie={this.selectMovie} />
         <CoverMovie movie={this.state.selectedMovie} />

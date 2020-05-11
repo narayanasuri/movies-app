@@ -1,6 +1,10 @@
 .suggestions-box {
     position: absolute;
+    width: 100%;
+}
+
+.suggestions-list {
     width: 227px;
-    right: 24px;
-    top: 45px;
+    margin: 0px auto;
+    z-index: 99;
 }
